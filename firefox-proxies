@@ -1,0 +1,3 @@
+cd "C:\Program Files\Mozilla Firefox\"
+firefox.exe -p -no-remote
+cmd /K
